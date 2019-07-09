@@ -77,7 +77,7 @@ instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 
 
 end
-using_delete(1,"Steven")
+using_delete("Steven")
 
 
 def using_delete_at(array,interger)
