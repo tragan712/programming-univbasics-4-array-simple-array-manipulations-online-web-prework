@@ -77,7 +77,7 @@ instructors("Steven")
 
 
 end
-instructors(1)
+using_delete(1)
 
 
 def using_delete_at(array,interger)
