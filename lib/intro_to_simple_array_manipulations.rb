@@ -73,7 +73,7 @@ instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"].delete("Steven")
 
 
-instructors("Steven")
+
 
 
 end
