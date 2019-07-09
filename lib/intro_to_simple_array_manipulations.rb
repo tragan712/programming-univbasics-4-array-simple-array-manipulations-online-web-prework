@@ -70,7 +70,7 @@ end
 def using_delete(array, string)
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-(instructors.delete("Steven")[1,3,5])
+(instructors.delete[1,3,5])
 end
 
 def using_delete_at(array,interger)
