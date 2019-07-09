@@ -71,7 +71,7 @@ def using_delete(array, string)
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 
-(instructors).delete==(1"Steven")
+(instructors).delete==(1)
 end
 
 def using_delete_at(array,interger)
