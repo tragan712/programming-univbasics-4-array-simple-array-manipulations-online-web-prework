@@ -69,8 +69,7 @@ end
 
 def using_delete(string)
 
-instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-instructors.delete("Steven")
+instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"].delete("Steven")
 
 
 
