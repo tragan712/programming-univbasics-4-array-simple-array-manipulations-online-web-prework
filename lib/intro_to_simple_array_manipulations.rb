@@ -70,7 +70,7 @@ end
 def using_delete(array, string)
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"].delete("Steven","Steven", "Steven")
+["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"].delete("Steven"[1],"Steven"[3], "Steven"[5])
 
 
 
