@@ -70,8 +70,9 @@ end
 def using_delete(array,string)
 
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-instructors.delete("Steven")
-    
+instructors.delete(instructors,"Steven")
+        no_offense_steven = using_delete(instructors, "Steven")
+
 
  no_offense_steven
 
